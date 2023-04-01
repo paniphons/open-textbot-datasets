@@ -1,0 +1,5 @@
+datasets/gpt4all/gpt4all-cleaned-dataset.xz filter=lfs diff=lfs merge=lfs -text
+datasets/teknium-oj4/toolformer.zip filter=lfs diff=lfs merge=lfs -text
+datasets/teknium-oj4/instruct.zip filter=lfs diff=lfs merge=lfs -text
+datasets/teknium-oj4/longform.zip filter=lfs diff=lfs merge=lfs -text
+datasets/teknium-oj4/roleplay.zip filter=lfs diff=lfs merge=lfs -text
